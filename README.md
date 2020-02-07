@@ -4,9 +4,15 @@ A Zeek Network Security Monitor Tutorial that will cover the basics of creating 
 Click [HERE](https://medium.com/@mytechnotalent/zeek-network-security-monitor-tutorial-part-1-setup-f0ac2fb8eba8) to read the article on Medium.
 ## Lesson 2: alert-all-notices.zeek
 Click [HERE](https://medium.com/@mytechnotalent/zeek-network-security-monitor-tutorial-part-2-alert-all-notices-zeek-5591357f6f21) to read the article on Medium.
-## Lesson 3: conn.log
+## Lesson 3: conn.log 
+In this lesson we will show the source IP addresses and ports and their destination IP addresses and ports.
 Click [HERE](https://medium.com/@mytechnotalent/zeek-network-security-monitor-tutorial-part-3-conn-log-c104ad5570bd) to read the article on Medium.
 ## Lesson 4: conn.log - 2
+In this lesson we will show the source IP addresses that generated the most network traffic, organized in descending order.
 Click [HERE](https://medium.com/@mytechnotalent/zeek-network-security-monitor-tutorial-part-4-conn-log-2-723b4d344504) to read the article on Medium.
 ## Lesson 5: conn.log - 3
+In this lesson we will show the destination ports that received the most network traffic, organized in descending order.
 Click [HERE](https://medium.com/@mytechnotalent/zeek-network-security-monitor-tutorial-part-5-conn-log-3-5e6ff976a9b5) to read the article on Medium.
+## Lesson 6: conn.log - 4
+In this lesson we will show the number of connections per protocol service.
+Click [HERE](https://medium.com/@mytechnotalent/zeek-network-security-monitor-tutorial-part-6-conn-log-4-d5d62610cc02) to read the article on Medium.
