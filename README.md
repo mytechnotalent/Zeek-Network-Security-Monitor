@@ -8,5 +8,5 @@ Click [HERE](https://medium.com/@mytechnotalent/zeek-network-security-monitor-tu
 Click [HERE](https://medium.com/@mytechnotalent/zeek-network-security-monitor-tutorial-part-3-conn-log-c104ad5570bd) to read the article on Medium.
 ## Lesson 4 - conn.log - 2
 Click [HERE](https://medium.com/@mytechnotalent/zeek-network-security-monitor-tutorial-part-4-conn-log-2-723b4d344504) to read the article on Medium.
-## Lesson 3 - conn.log - 3
+## Lesson 5 - conn.log - 3
 Click [HERE](https://medium.com/@mytechnotalent/zeek-network-security-monitor-tutorial-part-5-conn-log-3-5e6ff976a9b5) to read the article on Medium.
