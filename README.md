@@ -27,6 +27,7 @@ Click [HERE](https://medium.com/@mytechnotalent/zeek-network-security-monitor-tu
 ```
 ## Lesson 6: conn.log - 4
 In this lesson we will show the number of connections per protocol service.
-```bash
+
 Click [HERE](https://medium.com/@mytechnotalent/zeek-network-security-monitor-tutorial-part-6-conn-log-4-d5d62610cc02) to read the article on Medium.
-```
+## License
+[Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0/)
