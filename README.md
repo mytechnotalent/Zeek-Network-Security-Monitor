@@ -36,5 +36,10 @@ In this lesson we will show the distinct browsers used by the hosts.
 
 -> Click [HERE](https://medium.com/@mytechnotalent/zeek-network-security-monitor-tutorial-part-7-conn-log-5-99d5bc7e711f) to read the article on Medium.
 
+## Lesson 8: conn.log - 6
+In this lesson we will show the source and destination IP addresses of all UDP and TCP connections that lasted more than 90 seconds.
+
+-> Click [HERE](https://medium.com/@mytechnotalent/zeek-network-security-monitor-tutorial-part-8-conn-log-6-c19c7374483c) to read the article on Medium.
+
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0/)
