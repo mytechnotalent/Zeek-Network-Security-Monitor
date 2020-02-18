@@ -41,5 +41,10 @@ In this lesson we will show the source and destination IP addresses of all UDP a
 
 -> Click [HERE](https://medium.com/@mytechnotalent/zeek-network-security-monitor-tutorial-part-8-conn-log-6-c19c7374483c) to read the article on Medium.
 
+## Lesson 9: conn.log - 7
+In this lesson we will show whether there any web servers operating on non-standardized ports.
+
+-> Click [HERE](https://medium.com/@mytechnotalent/zeek-network-security-monitor-tutorial-part-9-conn-log-7-eaea25b86ead) to read the article on Medium.
+
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0/)
