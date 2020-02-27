@@ -46,5 +46,10 @@ In this lesson we will show whether there any web servers operating on non-stand
 
 -> Click [HERE](https://medium.com/@mytechnotalent/zeek-network-security-monitor-tutorial-part-9-conn-log-7-eaea25b86ead) to read the article on Medium.
 
+## Lesson 10: conn.log - 8
+In this lesson we will show the state history of connections as a string of letters.
+
+-> Click [HERE](https://medium.com/@mytechnotalent/zeek-network-security-monitor-tutorial-part-10-conn-log-8-1de2cf970b7a) to read the article on Medium.
+
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0/)
