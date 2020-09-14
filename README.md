@@ -52,4 +52,4 @@ In this lesson we will show the state history of connections as a string of lett
 -> Click [HERE](https://medium.com/@mytechnotalent/zeek-network-security-monitor-tutorial-part-10-conn-log-8-1de2cf970b7a) to read the article on Medium.
 
 ## License
-[Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0/)
+[Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
