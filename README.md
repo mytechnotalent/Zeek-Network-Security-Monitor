@@ -1,5 +1,5 @@
 # Zeek Network Security Monitor Tutorial
-A Zeek Network Security Monitor Tutorial that will cover the basics of creating a Zeek instance on your network in addition to all of the necessary hardware and setup and finally provide some examples of how you can use the power of Zeek to have absolute control over your network..
+A Zeek Network Security Monitor Tutorial that will cover the basics of creating a Zeek instance on your network in addition to all of the necessary hardware and setup and finally provide some examples of how you can use the power of Zeek to have absolute control over your network.
 
 ## Lesson 1: Setup
 In this lesson we set up a basic Ubuntu computer connected directly to an inexpensive tap which connects to your home router. I have provided products you can purchase if you do not have existing parts however please feel free to use any network tap of your choosing and/or any additional Ethernet adapters or cables of your choosing.
